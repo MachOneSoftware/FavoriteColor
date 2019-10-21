@@ -60,8 +60,12 @@ namespace MachOneSoftware.FavoriteColor
             "simpsons yellow",
             "Amazon orange",
             "I guess that's why they call it the blues blue",
-
-            "red","blue","green","yellow","orange"
+            "cosmic latte",
+            "red",
+            "blue",
+            "green",
+            "yellow",
+            "orange"
         };
 
         public SkillResponse FunctionHandler(SkillRequest input, ILambdaContext context)
