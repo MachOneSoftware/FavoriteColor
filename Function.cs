@@ -59,6 +59,9 @@ namespace MachOneSoftware.FavoriteColor
             "emoji yellow",
             "simpsons yellow",
             "Amazon orange",
+            "peacock blue",
+            "creamson red",
+            "queen pink",
             "I guess that's why they call it the blues blue",
 
             "red","blue","green","yellow","orange"
