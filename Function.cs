@@ -17,6 +17,14 @@ namespace MachOneSoftware.FavoriteColor
 
         private readonly string[] coolColors =
         {
+			"Air Force Blue",
+			"American rose",
+			"Anroid Green",
+			"Apple Green",
+			"Army Green",
+			"Antique brass",
+			"Antique fuchsia",
+			"bluish green",			
             "baby throw up green",
             "dog poop brown",
             "Nebraska Cornhusker scarlet",
