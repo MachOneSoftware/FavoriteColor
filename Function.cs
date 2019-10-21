@@ -60,7 +60,7 @@ namespace MachOneSoftware.FavoriteColor
             "simpsons yellow",
             "Amazon orange",
             "I guess that's why they call it the blues blue",
-
+            "Azure blue",
             "red","blue","green","yellow","orange"
         };
 
