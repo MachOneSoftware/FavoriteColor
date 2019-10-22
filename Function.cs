@@ -19,7 +19,7 @@ namespace MachOneSoftware.FavoriteColor
         {
 			"Air Force Blue",
 			"American rose",
-			"Anroid Green",
+			"Android Green",
 			"Apple Green",
 			"Army Green",
 			"Antique brass",
