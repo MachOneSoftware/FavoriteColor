@@ -232,7 +232,20 @@ namespace MachOneSoftware.FavoriteColor
             "Azure blue",
             "navy blue",
             "Flamingo purple",
-            "Frost White"
+            "Frost White",
+            "spring green",
+            "Fallow",
+            "maroon",
+            "baby pink",
+            "baby blue",
+            "blood red",
+            "navy blue",
+            "peacock green",
+            "ocean blue",
+            "saffron",
+            "fuchsia pink",
+            "lime green",
+            "Midnight Blue"
         };
 
         public SkillResponse FunctionHandler(SkillRequest input, ILambdaContext context)
