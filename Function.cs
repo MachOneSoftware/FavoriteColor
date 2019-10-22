@@ -242,7 +242,8 @@ namespace MachOneSoftware.FavoriteColor
             "ocean blue",
             "saffron",
             "fuchsia pink",
-            "lime green"
+            "lime green",
+            "Midnight Blue"
         };
 
         public SkillResponse FunctionHandler(SkillRequest input, ILambdaContext context)
