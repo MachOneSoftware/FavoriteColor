@@ -57,14 +57,34 @@ namespace MachOneSoftware.FavoriteColor
             "kitty cat tortoiseshell",
             "this color will offend you, so I won't say it",
             "emoji yellow",
+            "sky blue",
+            "Malachite green",
             "simpsons yellow",
             "Amazon orange",
             "peacock blue",
-            "crimson red",
+            "creamson red",
             "queen pink",
+
+            "Falu red",
+            "Gamboge yellow",
+            "Wine red",
+            "Xanadu green",
             "I guess that's why they call it the blues blue",
 
-            "red","blue","green","yellow","orange"
+            "red","blue","green","yellow","orange",
+            "mauve",
+            "neon pink",
+            "crimson",
+            "cyan",
+            "teal",
+            "flamingo",
+            "electric orange",
+            "Screaming green",
+            "Spanish Yellow",
+            "Malachite",
+            "Arsenic",
+            "Caput Mortuum"
+
         };
 
         public SkillResponse FunctionHandler(SkillRequest input, ILambdaContext context)
