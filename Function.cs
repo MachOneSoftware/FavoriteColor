@@ -68,6 +68,18 @@ namespace MachOneSoftware.FavoriteColor
             "I guess that's why they call it the blues blue",
 
             "red","blue","green","yellow","orange",
+            
+            "maroon",
+            "baby pink",
+            "baby blue",
+            "blood red",
+            "navy blue",
+            "peacock green",
+            "ocean blue",
+            "saffron",
+            "fuchsia pink",
+            "lime green",
+                
             "mauve",
             "neon pink",
             "crimson",
