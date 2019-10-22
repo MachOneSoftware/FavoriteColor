@@ -231,6 +231,8 @@ namespace MachOneSoftware.FavoriteColor
             "cosmic latte",
             "Azure blue",
             "navy blue",
+            "Flamingo purple",
+            "Frost White",
             "spring green",
             "Fallow",
             "maroon",
