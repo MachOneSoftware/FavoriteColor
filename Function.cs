@@ -227,7 +227,8 @@ namespace MachOneSoftware.FavoriteColor
             "Yellow Green",
             "peacock blue",
             "crimson red",
-            "queen pink"
+            "queen pink",
+            "cosmic latte"
         };
 
         public SkillResponse FunctionHandler(SkillRequest input, ILambdaContext context)
