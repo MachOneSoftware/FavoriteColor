@@ -66,8 +66,11 @@ namespace MachOneSoftware.FavoriteColor
             "Wine red",
             "Xanadu green-gray",
             "I guess that's why they call it the blues blue",
-
-            "red","blue","green","yellow","orange",
+            "red",
+            "blue",
+            "green",
+            "yellow",
+            "orange",
             "mauve",
             "neon pink",
             "crimson",
@@ -79,7 +82,8 @@ namespace MachOneSoftware.FavoriteColor
             "Spanish Yellow",
             "Malachite",
             "Arsenic",
-            "Caput Mortuum"
+            "Caput Mortuum",
+            "Midnight Blue"
 
         };
 
