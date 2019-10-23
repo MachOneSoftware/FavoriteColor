@@ -239,13 +239,15 @@ namespace MachOneSoftware.FavoriteColor
             "baby pink",
             "baby blue",
             "blood red",
-            "navy blue",
             "peacock green",
             "ocean blue",
             "saffron",
             "fuchsia pink",
             "lime green",
-            "Midnight Blue"
+            "Midnight Blue",
+            "ultramarine",
+            "mountbatten pink",
+            "melon yellow"
         };
 
         public SkillResponse FunctionHandler(SkillRequest input, ILambdaContext context)
