@@ -17,7 +17,10 @@ namespace MachOneSoftware.FavoriteColor
 
         private readonly string[] coolColors =
         {
-            "Air Force Blue", 
+            "Air Force Blue",
+            "Antique bronze",
+            "Android green",
+            "Antique brass",
             "Alice Blue", 
             "Amazon Orange", 
             "American Rose", 
