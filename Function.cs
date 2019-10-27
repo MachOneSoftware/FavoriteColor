@@ -133,6 +133,7 @@ namespace MachOneSoftware.FavoriteColor
             "Light Sky Blue", 
             "Light Slate Gray", 
             "Light Steel Blue", 
+            "Light Tomato Red", 
             "Light Yellow", 
             "Lime", 
             "Lime Green", 
