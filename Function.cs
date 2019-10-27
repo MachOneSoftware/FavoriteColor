@@ -19,8 +19,6 @@ namespace MachOneSoftware.FavoriteColor
         {
             "Air Force Blue",
             "Antique bronze",
-            "Android green",
-            "Antique brass",
             "Alice Blue", 
             "Amazon Orange", 
             "American Rose", 
