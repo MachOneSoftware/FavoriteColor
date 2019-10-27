@@ -88,6 +88,7 @@ namespace MachOneSoftware.FavoriteColor
             "Flamingo", 
             "Floral White", 
             "Forest Green", 
+            "French Blue",
             "Fuchsia", 
             "Fuzzy Caterpillar Brown", 
             "Fuzzy Wuzzy Brown", 
