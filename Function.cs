@@ -19,6 +19,7 @@ namespace MachOneSoftware.FavoriteColor
         {
             "Air Force Blue", 
             "Alice Blue", 
+            "Amaranth" ,		
             "Amazon Orange", 
             "American Rose", 
             "Android Green", 
