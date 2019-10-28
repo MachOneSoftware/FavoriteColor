@@ -198,6 +198,7 @@ namespace MachOneSoftware.FavoriteColor
             "Saddle Brown", 
             "Salmon", 
             "Sandy Brown", 
+            "Savoy blue", 
             "Screaming Green", 
             "Sea Green", 
             "Seashell", 
