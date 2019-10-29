@@ -84,6 +84,7 @@ namespace MachOneSoftware.FavoriteColor
             "Dog Poop Brown", 
             "Electric Orange", 
             "Emoji Yellow", 
+            "English Lavender",
             "Falu Red", 
             "Firebrick Red", 
             "Flamingo", 
