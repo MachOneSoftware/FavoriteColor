@@ -254,7 +254,10 @@ namespace MachOneSoftware.FavoriteColor
             "Midnight Blue",
             "ultramarine",
             "mountbatten pink",
-            "melon yellow"
+            "melon yellow",
+            "Champagne",
+            "Apricot",
+            "Celadon"
         };
 
         public SkillResponse FunctionHandler(SkillRequest input, ILambdaContext context)
