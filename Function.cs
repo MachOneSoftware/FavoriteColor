@@ -50,6 +50,7 @@ namespace MachOneSoftware.FavoriteColor
             "Carrot Parrot", 
             "Chartreuse", 
             "Chocolate", 
+            "Cobalt",
             "Communist Red", 
             "Coral", 
             "Cornflower Blue", 
