@@ -258,6 +258,7 @@ namespace MachOneSoftware.FavoriteColor
             "Midnight Blue",
             "ultramarine",
             "mountbatten pink",
+            "Ford Performance Blue",
             "melon yellow",
             "Champagne",
             "Apricot",
