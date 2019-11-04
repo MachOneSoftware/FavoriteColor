@@ -82,6 +82,7 @@ namespace MachOneSoftware.FavoriteColor
             "Dim Grey", 
             "Dodger Blue", 
             "Dog Poop Brown", 
+            "Eggplant",
             "Electric Orange", 
             "Emoji Yellow", 
             "English Lavender",
