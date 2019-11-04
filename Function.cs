@@ -82,6 +82,7 @@ namespace MachOneSoftware.FavoriteColor
             "Dim Grey", 
             "Dodger Blue", 
             "Dog Poop Brown", 
+            "Eggplant",
             "Electric Orange", 
             "Emoji Yellow", 
             "English Lavender",
@@ -142,7 +143,8 @@ namespace MachOneSoftware.FavoriteColor
             "Light Yellow", 
             "Lime", 
             "Lime Green", 
-            "Linen", 
+            "Linen",
+            "Macaroon",
             "Magenta", 
             "Malachite", 
             "Malachite Green", 
@@ -166,7 +168,8 @@ namespace MachOneSoftware.FavoriteColor
             "Nebraska Cornhusker Cream", 
             "Nebraska Cornhusker Scarlet", 
             "Neon Pink", 
-            "Nomad Red", 
+            "Nomad Red",
+            "Oat", 
             "Old Lace", 
             "Olive", 
             "Olive Drab", 
@@ -202,7 +205,8 @@ namespace MachOneSoftware.FavoriteColor
             "Savoy blue", 
             "Screaming Green", 
             "Sea Green", 
-            "Seashell", 
+            "Seashell",
+            "Sepia" ,
             "Sienna", 
             "Silver", 
             "Simpsons Yellow", 
@@ -254,8 +258,11 @@ namespace MachOneSoftware.FavoriteColor
             "Midnight Blue",
             "ultramarine",
             "mountbatten pink",
-            "melon yellow", 
-            "Ford Performance Blue"
+            "Ford Performance Blue",
+            "melon yellow",
+            "Champagne",
+            "Apricot",
+            "Celadon"
         };
 
         public SkillResponse FunctionHandler(SkillRequest input, ILambdaContext context)
